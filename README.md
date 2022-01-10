@@ -7,13 +7,11 @@ My name is [Jin](https://ztanruan.com), a learning software developer, an AWS Ce
 - 🔭 I’m currently working at Amazon Web Services as Solutions Architect
 - 🌱 I’m currently learning blockchain and smart contract technologies
 - 👯 I’m looking to collaborate on new ideas for mobile applications
-- 📫 How to reach me:
-  jtanruan@gmail.com
-
-- 📝 [More information](https://ztanruan.com/resume.pdf)
+- 📫 How to reach me: jtanruan@gmail.com
+- 📝 [Resume](https://ztanruan.com/resume.pdf)
 
 - ⚡ Fun fact: 
       - Speak three languages (Spanish, Chinese and English)
-      - Joined selected concord dawn - US Air Force Cybersecurity Lab
-      - Confounded Itemize, an online dashboard to upload register online purchases
+      - Joined US Air Force Cybersecurity Lab
+      - Won iPrize entrepreneurship competition 2019 - 2021
 
