@@ -13,8 +13,10 @@ My name is [Jin](https://ztanruan.com). I'm a New York-based software engineer s
 **Fun fact:** 
 
 - 📇 Speak three languages (Spanish, Chinese and English)
-- 🇺🇸 Joined US Air Force Cybersecurity Lab
-- 🏆 Won iPrize entrepreneurship competition 2019 - 2021
+- 🇺🇸 Joined Concord Dawn US Air Force Research Lab
+- 🏆 2nd place iPrize entrepreneurship competition 2019 - 2021
+- 🎓 University Cambridge International Examination IGCSE (Mathematics) 
+- 🎓 University Cambridge International Examination IGCSE (Science)
 
 **Languages and Tools:** 
 
