@@ -30,7 +30,7 @@ My name is [Jin](https://ztanruan.com). I'm a New York-based software engineer s
 - [YOLOv3 using iOS Core ML](https://ztanruan.com/YOLOv3_Darknet53_iOS.pdf)
 - [2048 Game AI Expectimax](https://ztanruan.com/2048_AI_Game_Expectimax.pdf)
 
-**Contact-me:**
+**Contact me:**
 
 - ✉️ [Email](mailto:jtanruan@gmail.com)
 - 🌍 [Personal Website](https://ztanruan.com)
