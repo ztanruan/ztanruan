@@ -6,7 +6,7 @@ My name is [Jin](https://ztanruan.com). I'm a New York-based software engineer s
 - 🔭 I’m currently working at Amazon Web Services as Solutions Architect
 - 🌱 I’m currently learning blockchain and smart contract technologies
 - 👯 I’m looking to collaborate on new ideas for mobile applications
-- 🖥️ [Itemize Dashboard] https://itemizeusa.com
+- 🖥️ [Itemize Dashboard](https://itemizeusa.com)
 - 📱 [Mobile application](https://apps.apple.com/us/app/splash-desk/id1528420953)
 - 📝 [Resume](https://ztanruan.com/resume.pdf)
 
@@ -25,8 +25,13 @@ My name is [Jin](https://ztanruan.com). I'm a New York-based software engineer s
 - Objective C
 - ReactJS
 
+**Research project:**
+
+- [YOLOv3 using iOS Core ML](https://ztanruan.com/YOLOv3_Darknet53_iOS.pdf)
+- [2048 Game AI Expectimax](https://ztanruan.com/2048_AI_Game_Expectimax.pdf)
+
 **Contact-me:**
 
-- ✉️ Email: jtanruan@gmail.com
-- 🌍 Website: https://ztanruan.com
-- 🔗 Linkedln: https://www.linkedin.com/notifications/
+- ✉️ [Email](mailto:jtanruan@gmail.com)
+- 🌍 [Personal Website](https://ztanruan.com)
+- 🔗 [Linkedln](https://www.linkedin.com/notifications/)
