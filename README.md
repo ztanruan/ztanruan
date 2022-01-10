@@ -18,7 +18,7 @@ My name is [Jin](https://ztanruan.com). I'm a New York-based software engineer s
 
 **Languages and Tools:** 
 
-- Java
+- :atom: Java 
 - Swift
 - Python
 - Haskell
