@@ -19,11 +19,11 @@ My name is [Jin](https://ztanruan.com). I'm a New York-based software engineer s
 **Languages and Tools:** 
 
 - :atom: Java 
-- Swift
-- Python
-- Haskell
-- Objective C
-- ReactJS
+- :atom: Swift
+- :atom: Python
+- :atom: Haskell
+- :atom: Objective C
+- :atom: ReactJS
 
 **Research project:**
 
