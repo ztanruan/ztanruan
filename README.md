@@ -3,11 +3,6 @@
 
 My name is [Jin](https://ztanruan.com). I'm a New York-based software engineer specializing in designing and building intelligent, scalable, and resilient applications 🚀. I am an AWS Certified Solutions Architect, AWS Certified Developer, and Automation Anywhere Certified Bot Developer. I enjoy creating and deploying innovative and intelligent web and mobile applications online. I graduated from Syracuse University with a bachelor's and master's degree in Computer Science. As a result, I have a strong background in process-oriented software development, implementing and testing complex applications using various programming languages and frameworks. In addition, I have extensive experience with iOS Development, Machine learning, YoloV3 Darknet53 image recognition technology, Automation tools, and Cloud architecture.
 
-<code><img height="120" src="https://github-ztanruan.s3.amazonaws.com/1.png"></code>
-<code><img height="120" src="https://github-ztanruan.s3.amazonaws.com/6.png"></code>
-<code><img height="120" src="https://github-ztanruan.s3.amazonaws.com/3.png"></code>
-<code><img height="120" src="https://github-ztanruan.s3.amazonaws.com/7.png"></code>
-
 
 - 🔭 I’m currently working at Amazon Web Services as Solutions Architect
 - 🌱 I’m currently learning blockchain and smart contract technologies
