@@ -13,13 +13,14 @@ My name is [Jin](https://ztanruan.com). I'm a New York-based software engineer s
   <img src="https://github-ztanruan.s3.amazonaws.com/8.png" width="130" />
 </p>
 <p float="left">
+   <img src="https://github-ztanruan.s3.amazonaws.com/AWS-Certified_Machine-Learning_Specialty_512x512.6ac490d15fe033a3d67ca544ecd0bcbcb10d391a.png" width="130" />
   <img src="https://github-ztanruan.s3.amazonaws.com/11.png" width="130" />
   <img src="https://github-ztanruan.s3.amazonaws.com/19.png" width="130" />
   <img src="https://github-ztanruan.s3.amazonaws.com/16.png" width="130" />
   <img src="https://github-ztanruan.s3.amazonaws.com/17.png" width="130" /> 
   <img src="https://github-ztanruan.s3.amazonaws.com/18.png" width="130" />
    
-   <img src="https://github-ztanruan.s3.amazonaws.com/AWS-Certified_Machine-Learning_Specialty_512x512.6ac490d15fe033a3d67ca544ecd0bcbcb10d391a.png" width="130" />
+   
    
    
    
