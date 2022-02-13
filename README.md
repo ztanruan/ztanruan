@@ -19,12 +19,15 @@ My name is [Jin](https://ztanruan.com). I'm a New York-based software engineer s
   <img src="https://github-ztanruan.s3.amazonaws.com/16.png" width="130" />
   <img src="https://github-ztanruan.s3.amazonaws.com/17.png" width="130" /> 
   <img src="https://github-ztanruan.s3.amazonaws.com/18.png" width="130" />
-   
-   
-   
-   
-   
+</p>
 
+<p float="left">
+  <img src="https://github-ztanruan.s3.amazonaws.com/9.png" width="130" />
+  <img src="https://github-ztanruan.s3.amazonaws.com/10.png" width="130" />
+  <img src="https://github-ztanruan.s3.amazonaws.com/11.png" width="130" />
+  <img src="https://github-ztanruan.s3.amazonaws.com/12.png" width="130" /> 
+  <img src="https://github-ztanruan.s3.amazonaws.com/13.png" width="130" />
+  <img src="https://github-ztanruan.s3.amazonaws.com/14.png" width="130" />
 </p>
 
 <br />
