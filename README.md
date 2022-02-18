@@ -5,7 +5,7 @@ My name is [Jin](https://ztanruan.com). I'm a New York-based software engineer s
 <br />
 
 <p float="left">
-   <img src="https://github-ztanruan.s3.amazonaws.com/20.png" width="130" />
+   <img src="https://github-ztanruan.s3.amazonaws.com/Mark_of_the_United_States_Air_Force.svg.png" width="130" />
 </p>
 <p float="left">
    <img src="https://github-ztanruan.s3.amazonaws.com/7.png" width="130"/>
