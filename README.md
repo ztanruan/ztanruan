@@ -14,6 +14,7 @@ I'm a software engineer specializing in designing and building intelligent, scal
 - 🌱 Learning Automation RPA and ML & AI
 - 📇 Speak three languages (Spanish, Chinese and English)
 - 🇺🇸 Joined Concord Dawn US Air Force Research Lab
+- 💻 [Personal Website](https://ztanruan.com/)
 - 📱 [Mobile application](https://apps.apple.com/us/app/splash-desk/id1528420953)
 - 🔍 [ML YoloV3 application](https://apps.apple.com/us/app/yolov53/id1607199983)
 - 📝 [Resume](https://ztanruan.com/resume.pdf)
@@ -25,29 +26,27 @@ I'm a software engineer specializing in designing and building intelligent, scal
 <div align="center">
   
 <img src="https://github-ztanruan.s3.amazonaws.com/swift.png" height="60" width="60">
-<img src="https://github-ztanruan.s3.amazonaws.com/python.png" height="60" width="60">
-<img src="https://github-ztanruan.s3.amazonaws.com/614ca57253acb46f024e2c61_javascript.png" height="60" width="60">
+
 <img src="https://github-ztanruan.s3.amazonaws.com/postman.png" height="60" width="60">
-  
+<img src="https://github-ztanruan.s3.amazonaws.com/1611079.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/firebase.png" height="60" width="60">
 <img src="https://github-ztanruan.s3.amazonaws.com/PyCharm_Icon.svg.png" height="60" width="60">
 <img src="https://github-ztanruan.s3.amazonaws.com/sql.png" height="60" width="60">
-<img src="https://github-ztanruan.s3.amazonaws.com/tensor.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/logo-html-5-256.png" height="60" width="60">
 <img src="https://github-ztanruan.s3.amazonaws.com/visual.png" height="60" width="60">
-<img src="https://github-ztanruan.s3.amazonaws.com/git-icon.png" height="60" width="60">
-
+<img src="https://github-ztanruan.s3.amazonaws.com/logo-css-3-2048.png" height="60" width="60">
+  
 <br>
+  
 <img src="https://github-ztanruan.s3.amazonaws.com/C%2B%2B-Logo.wine.png" height="60" width="60">
 <img src="https://github-ztanruan.s3.amazonaws.com/postgres.png" height="60" width="60">
-<img src="https://github-ztanruan.s3.amazonaws.com/kotlin-logo.png" height="60" width="60">
-<img src="https://github-ztanruan.s3.amazonaws.com/1_IQ0Vmeg-OOcRdgjEtgGFLw.png" height="60" width="60">
-
-  
-  
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+<img src="https://github-ztanruan.s3.amazonaws.com/kubernetes-icon-color_fz4a1sS.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/tensor.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/git-icon.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/python.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/614ca57253acb46f024e2c61_javascript.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/docker-3628734-3029959.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/app-icon-realistic-materials_2x+(1).png" height="60" width="60">
 
 </div>
 
