@@ -29,18 +29,20 @@ I'm a software engineer specializing in designing and building intelligent, scal
 <img src="https://github-ztanruan.s3.amazonaws.com/614ca57253acb46f024e2c61_javascript.png" height="60" width="60">
 <img src="https://github-ztanruan.s3.amazonaws.com/postman.png" height="60" width="60">
   
-<img src="https://github-ztanruan.s3.amazonaws.com/hadoop.png" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/django.jpg?raw=true" height="60" width="60">
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/PyCharm_Icon.svg.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/sql.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/tensor.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/visual.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/git-icon.png" height="60" width="60">
 
 <br>
+<img src="https://github-ztanruan.s3.amazonaws.com/C%2B%2B-Logo.wine.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/postgres.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/kotlin-logo.png" height="60" width="60">
+<img src="https://github-ztanruan.s3.amazonaws.com/1_IQ0Vmeg-OOcRdgjEtgGFLw.png" height="60" width="60">
 
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
+  
+  
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
