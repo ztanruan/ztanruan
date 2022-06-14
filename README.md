@@ -1,8 +1,8 @@
 ![](https://github-ztanruan.s3.amazonaws.com/header_.png)
 
-<h1 align="center"> 你好 (Nihaou), I'm Jin Tan Ruan<img src="https://github-ztanruan.s3.amazonaws.com/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> 你好 (Nihaou), I'm Jin Tan Ruan </h1>
 
-<h3 align="center">I'm a Cloud Developer and iOS Mobile Developer from NYC 🗽</h3>
+<h3 align="center">I'm a Solutions Developer and iOS Mobile Developer from NYC 🗽</h3>
   
   
 I'm a software engineer specializing in designing and building intelligent, scalable, and resilient applications 🚀. I am an AWS Certified Machine Learning and Data Analytics Specialty 📊, and Automation Anywhere Certified Bot Developer 🤖. Strong background in process-oriented software development, implementing and testing complex applications using various programming languages and frameworks 💻. In addition. Additionally I have extensive experience with iOS Development ⌚, Machine learning, YoloV3 image recognition technology 📹, Automation tools, and Cloud architecture ☁️.
