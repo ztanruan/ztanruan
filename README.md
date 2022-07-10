@@ -10,14 +10,14 @@ I'm a software engineer specializing in designing and building intelligent, scal
 <br>
 
 
-- 🔭 Working at Amazon Web Services as Solutions Architect
-- 🌱 Learning Automation RPA and ML & AI
-- 📇 Speak three languages (Spanish, Chinese and English)
-- 🇺🇸 Joined Concord Dawn US Air Force Research Lab
-- 💻 [Personal Website](https://ztanruan.com/)
-- 📱 [Mobile application](https://apps.apple.com/us/app/splash-desk/id1528420953)
-- 🔍 [ML YoloV3 application](https://apps.apple.com/us/app/yolov53/id1607199983)
-- 📝 [Resume](https://ztanruan.com/resume.pdf)
+- 🔭  Working at Amazon Web Services as Solutions Architect
+- 🌱  Learning Automation RPA and ML & AI
+- 📇  Speak three languages (Spanish, Chinese and English)
+- 🇺🇸  Joined Concord Dawn US Air Force Research Lab
+- 💻  [Personal Website](https://ztanruan.com/)
+- 📱  Mobile application](https://apps.apple.com/us/app/splash-desk/id1528420953)
+- 🔍  [ML YoloV3 application](https://apps.apple.com/us/app/yolov53/id1607199983)
+- 📝  [Resume](https://ztanruan.com/resume.pdf)
 
 <br>
 
