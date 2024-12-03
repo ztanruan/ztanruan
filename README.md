@@ -1,6 +1,6 @@
 ![](https://github-ztanruan.s3.amazonaws.com/header_.png)
 
-<h1 align="center"> 你好 (Nihaou), I'm Jin Tan Ruan </h1>
+<h1 align="center"> 你好 (Nihaou), I'm Zhen (Jin) Tan Ruan </h1>
 
 <h3 align="center">I'm a Solutions Developer and iOS Mobile Developer from NYC 🗽</h3>
   
