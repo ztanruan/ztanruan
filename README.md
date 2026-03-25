@@ -37,7 +37,7 @@ I'm Jin, a Senior GenAI Forward Deployed Engineer at Google. Based in New York, 
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
-- 🔭  Working at Google as a Senior GenAI Forward Deployed Engineer — building production Generative AI applications and systems
+- 🔭  Working at Google as a Senior GenAI Forward Deployed Engineer - building production Generative AI applications and systems
 - 🏢  Previously Senior GenAI Engineer at Amazon Web Services (Global Prototyping)
 - 🌱  10x AWS Machine Learning Certified
 - 📇  Speak three languages (Spanish, Chinese and English)
