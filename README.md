@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Senior Generative AI and Machine Learning Engineer from NYC 🗽</h3>
 
   
-I’m Jin, a Senior GenAI Forward Deployed Enginner at Google. Based in New York, I specialize in the architecture and deployment of production-grade Generative AI and the pursuit of AGI. My work focuses on the frontier of agentic workflows, foundation model fine-tuning, and enterprise-scale ML systems. Previously, I was a Senior GenAI Engineer at AWS within the Global Prototyping team, where I led the design of AI-driven applications for complex enterprise challenges. With a background as a Research Scientist at the Air Force Research Lab (AFRL), I bridge the gap between cutting-edge R&D and scalable, real-world execution.
+I’m Jin, a Senior GenAI Forward Deployed Enginner at Google. Based in New York, I specialize in the architecture and deployment of production-grade Generative AI and the pursuit of AGI. My work focuses on the frontier of agentic workflows, foundation model fine-tuning, and enterprise-scale ML systems. Previously, I was a Senior GenAI Engineer at AWS within the Global Prototyping team, where I led the design of AI-driven applications for complex enterprise challenges. With a background as a Research Scientist at the Air Force Research Lab, I bridge the gap between cutting-edge R&D and scalable, real-world execution.
 
 <h3>Things I code with</h3>
 <p>
