@@ -1,4 +1,4 @@
-![](https://github-ztanruan.s3.amazonaws.com/header_.png)
+![](https://raw.githubusercontent.com/ztanruan/ztanruan/main/1708361490341.jpeg)
 
 <h1 align="center"> 你好 (Nihaou), I'm Zhen (Jin) Tan Ruan </h1>
 
