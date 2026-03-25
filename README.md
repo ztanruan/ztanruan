@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Senior Generative AI and Machine Learning Engineer from NYC 🗽</h3>
 
   
-I’m Jin, a Senior Generative AI Engineer specializing in building and deploying production-ready generative AI applications powered by LLMs 🚀. Based in New York, I focus on agentic applications, fine-tuning foundation models, and enterprise-grade AI/ML solutions that drive innovation at scale. Currently, I work as a Generative AI Developer on the Global Prototyping team at Amazon Web Services (AWS), where I research, design, and develop AI-driven applications that integrate artificial general intelligence (AGI) capabilities into real-world enterprise solutions 🤖. I collaborate closely with AI/ML scientists, solution architects, and engineers to design, build, and optimize scalable, production-ready generative AI systems that solve complex business challenges 💻.
+I’m Jin, a GenAI Foundational Design & Engineer (FDE) at Google. Based in New York, I specialize in the architecture and deployment of production-grade Generative AI and the pursuit of AGI. My work focuses on the frontier of agentic workflows, foundation model fine-tuning, and enterprise-scale ML systems. Previously, I was a Senior GenAI Engineer at AWS within the Global Prototyping team, where I led the design of AI-driven applications for complex enterprise challenges. With a background as a Research Scientist at the Air Force Research Lab (AFRL), I bridge the gap between cutting-edge R&D and scalable, real-world execution.
 
 <h3>Things I code with</h3>
 <p>
