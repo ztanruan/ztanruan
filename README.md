@@ -1,13 +1,22 @@
 ![](https://raw.githubusercontent.com/ztanruan/ztanruan/main/1708361490341.jpeg)
 
-<h1 align="center"> 你好 (Nihaou), I'm Zhen (Jin) Tan Ruan </h1>
+<h1 align="center">你好 (Nǐ hǎo), I'm Zhen (Jin) Tan Ruan</h1>
 
-<h3 align="center">I'm a Senior GenAI Forward Deployed Engineer at Google, based in NYC 🗽</h3>
+<h3 align="center">Senior GenAI Forward Deployed Engineer @ Google · Based in NYC 🗽</h3>
 
+<p align="center">Architecting and shipping production-grade Generative AI systems and agentic workflows - embedded with enterprise teams, from prototype to scale.</p>
 
-I'm Jin, a Senior GenAI Forward Deployed Engineer at Google. Based in New York, I specialize in the architecture and deployment of production-grade Generative AI systems and the pursuit of AGI. My work focuses on the frontier of agentic workflows, foundation model fine-tuning, and enterprise-scale ML systems - designing and shipping production GenAI applications that solve complex real-world problems. Previously, I was a Senior GenAI Engineer at Amazon Web Services within the Global Prototyping team, where I led the design of AI-driven applications for complex enterprise challenges. With a background as a Research Scientist at the Air Force Research Lab, I bridge the gap between cutting-edge R&D and scalable, real-world execution.
+---
 
-<h3>Things I code with</h3>
+I'm Jin, a Senior Forward Deployed Engineer on Google's Generative AI team. Based in New York, I specialize in the architecture, deployment, and operation of production-grade Generative AI systems - working at the frontier of **agentic workflows**, **multi-agent orchestration**, **foundation model fine-tuning**, and **enterprise-scale ML systems**.
+
+As an FDE, I embed directly with customer engineering teams to design, code, and ship bespoke GenAI applications that drive measurable business impact - building the connective tissue between Google's AI products and real-world infrastructure, data, and security perimeters. My focus is taking ambitious ideas from rapid prototype to hardened, observable, production-grade reality.
+
+Before Google, I was a **Member of Technical Staff - Forward Deployed Engineer at TwelveLabs**, a frontier video-understanding lab building state-of-the-art **Vision-Language Models (VLMs)**. There I worked hands-on with customers to deploy multimodal video AI - semantic search, understanding, and retrieval - into production at scale.
+
+Earlier, I was a Senior GenAI Engineer at **Amazon Web Services** within the Global Prototyping team, where I led the design of AI-driven applications for complex enterprise challenges. And as a **Research Scientist at the Air Force Research Lab**, I worked at the intersection of applied research and mission-critical systems - bridging cutting-edge R&D with scalable, real-world execution.
+
+<h3>🛠️ Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -27,6 +36,18 @@ I'm Jin, a Senior GenAI Forward Deployed Engineer at Google. Based in New York, 
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Anthropic" src="https://img.shields.io/badge/-Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
   <img alt="Gemini" src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" />
+  <img alt="TwelveLabs" src="https://img.shields.io/badge/-TwelveLabs%20(VLM)-000000?style=flat-square&logo=v&logoColor=white" />
+  <img alt="MCP" src="https://img.shields.io/badge/-Model%20Context%20Protocol-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="LlamaIndex" src="https://img.shields.io/badge/-LlamaIndex-3D1E6D?style=flat-square&logo=meta&logoColor=white" />
+  <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img alt="JAX" src="https://img.shields.io/badge/-JAX-D34516?style=flat-square&logo=google&logoColor=white" />
+  <img alt="Ray" src="https://img.shields.io/badge/-Ray-028CF0?style=flat-square&logo=ray&logoColor=white" />
+  <img alt="Weights & Biases" src="https://img.shields.io/badge/-Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
+  <img alt="Pinecone" src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+  <img alt="Weaviate" src="https://img.shields.io/badge/-Weaviate-00C9A7?style=flat-square&logo=weaviate&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
@@ -37,15 +58,28 @@ I'm Jin, a Senior GenAI Forward Deployed Engineer at Google. Based in New York, 
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
-- 🔭  Working at Google as a Senior GenAI Forward Deployed Engineer - building production Generative AI applications and systems
-- 🏢  Previously Senior GenAI Engineer at Amazon Web Services (Global Prototyping)
-- 🌱  10x AWS Machine Learning Certified
-- 📇  Speak three languages (Spanish, Chinese and English)
-- 🇺🇸  Former Research Scientist @ Concord Dawn Air Force Research Lab
+<h3>⚡ At a glance</h3>
+
+- 🔭  **Senior GenAI Forward Deployed Engineer @ Google** - building and shipping production Generative AI applications, agentic systems, and multi-agent workflows
+- 🎥  Previously **Member of Technical Staff, Forward Deployed Engineer @ TwelveLabs** - deploying frontier Vision-Language Models (VLMs) for video understanding
+- 🏢  Formerly **Senior GenAI Engineer @ Amazon Web Services** (Global Prototyping)
+- 🇺🇸  Former **Research Scientist @ Air Force Research Lab**
+- 📄  Published & presented at **ICML 2025**
+- 🌱  **10x AWS Machine Learning Certified**
+- 📇  Speak three languages - Spanish, Chinese, and English
 - 💻  [Personal Website](https://ztanruan.com/)
 - 📝  [Resume](https://ztanruan.com/assets/resume.pdf)
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/ztanruan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ztanruan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://jtanruan.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<h3>📚 Research & Publications</h3>
+
+**Mood Swings: Three Neuromodulatory Scalars Drive Impulse–Caution Shifts in Deep Actor–Critic Agents** - *ICML 2025*
+
+This work introduces a novel framework for **dynamic emotional states in multi-agent systems**, where deep reinforcement learning agents experience and adapt to "mood swings" driven by environmental stimuli and inter-agent interactions. Modeled through three neuromodulatory scalars, these states shift agents along an **impulse–caution** spectrum - demonstrating how emotional volatility can sharpen decision-making and improve collaborative outcomes in complex multi-agent scenarios.
+
+<h3>🤝 Where to find me</h3>
+<p>
+  <a href="https://github.com/ztanruan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ztanruan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://jtanruan.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
