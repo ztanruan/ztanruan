@@ -4,7 +4,7 @@
 
 <h3 align="center">Senior GenAI Forward Deployed Engineer @ Google · Based in NYC 🗽</h3>
 
-<p align="center">Architecting and shipping production-grade Generative AI systems and agentic workflows - embedded with enterprise teams, from prototype to scale.</p>
+<p align="center">Architecting and shipping production-grade Generative AI systems and <br>agentic workflows - embedded with enterprise teams, from prototype to scale.</br></p>
 
 ---
 
